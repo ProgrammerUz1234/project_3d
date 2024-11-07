@@ -1,4 +1,4 @@
-import logo from "./logo.svg";
+import logo from "./logo.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -20,15 +20,17 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import vue from "./tech/Vue.png";
+import vuex from "./tech/vuex.svg";
+import vuetify from "./tech/vuetify.svg"
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import mohirdev from "./company/mohirdev.webp";
+import programmer from "./company/programmer.png";
+import rakhmonov from "./company/rakhmonov.jpg";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import carrental from "./carrental.png";
+import nikeclone from "./nikeclone.png";
+import tradingview from "./tradingview.png";
 
 export {
   logo,
@@ -39,6 +41,7 @@ export {
   github,
   menu,
   close,
+
   css,
   docker,
   figma,
@@ -52,11 +55,15 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+  vue,
+  vuex,
+  vuetify,
+
+  mohirdev,
+  programmer,
+  rakhmonov,
+
+  carrental,
+  nikeclone,
+  tradingview,
 };
